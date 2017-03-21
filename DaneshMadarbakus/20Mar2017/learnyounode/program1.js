@@ -1,6 +1,11 @@
 
+function greet(name) {
+  console.log('Hello ' + name);
+}
 
-// 
+greet('Danesh');
+
+//
 // var fs = require('fs');
 // var buffer = fs.
 
